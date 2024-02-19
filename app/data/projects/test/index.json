@@ -3,8 +3,23 @@
     "name": "Test",
     "models": [
         {
-            "id": "test",
-            "name": "Test model"
+            "id": "grid",
+            "name": "Grid model"
         }
-    ]
+    ],
+    "viewerConfigs": {
+        "backgroundColor": [
+            0.9,
+            0.9,
+            1.0
+          ]
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "test"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "classes"
+    }
 }
