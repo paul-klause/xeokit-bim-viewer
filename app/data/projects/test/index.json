@@ -3,8 +3,8 @@
     "name": "Test",
     "models": [
         {
-            "id": "grid",
-            "name": "Grid model"
+            "id": "test",
+            "name": "Test model"
         }
     ],
     "viewerConfigs": {
