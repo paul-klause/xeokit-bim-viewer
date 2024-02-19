@@ -1,0 +1,23 @@
+{
+    "id": "test",
+    "name": "Test",
+    "models": [
+        {
+            "id": "test",
+            "name": "Test model"
+        }
+    ],
+    "viewerConfigs": {
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "design"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "classes",
+        "expandObjectsTree": 1,
+        "expandClassesTree": 1,
+        "expandStoreysTree": 1
+    }
+}
