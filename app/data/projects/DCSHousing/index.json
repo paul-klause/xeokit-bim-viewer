@@ -1,0 +1,25 @@
+{
+    "id": "DCShousing",
+    "name": "DCS Housing",
+    "models": [
+        {
+            "id": "partialSlice",
+            "name": "Partial Slice Model"
+        }
+    ],
+    "viewerConfigs": {
+        "backgroundColor": [
+            0.9,
+            0.9,
+            1.0
+          ]
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "partialSlice"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "classes"
+    }
+}

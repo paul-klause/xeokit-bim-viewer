@@ -5,6 +5,10 @@
       "name": "Duplex"
     },
     {
+      "id": "DCShousing",
+      "name": "DCS Housing"
+    },
+    {
       "id": "test",
       "name": "Test"
     },
